@@ -14,7 +14,7 @@ Concluí recentemente um estágio de três meses na **Xevolution**, como desenvo
 
 Hoje estou focado em consolidar o que aprendi e em continuar a evoluir, passo a passo, rumo ao desenvolvimento full stack.
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 | Área | Tecnologias |
 |---|---|
@@ -22,12 +22,12 @@ Hoje estou focado em consolidar o que aprendi e em continuar a evoluir, passo a 
 | Back-end | PHP, Laravel, Symfony, Java, Python |
 | Bases de dados | MySQL |
 
-## 📚 Neste momento estou a aprender
+## Neste momento estou a aprender
 
 - Git e GitHub
 - Node.js
 - React
 
-## 📂 Projetos
+## Projetos
 
 Em breve. Esta secção vai crescer à medida que publico os meus projetos.
